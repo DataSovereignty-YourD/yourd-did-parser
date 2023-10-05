@@ -1,0 +1,20 @@
+{
+  "name": "yourd-did-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DataSovereignty-YourD/yourd-did-parser.git",
+  "author": "unchain68 <unchain68@gmail.com>",
+  "license": "GPL-3.0 license",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc --p tsconfig.json && tsc --p tsconfig.esm.json",
+    "clean": "rimraf ./lib"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "rimraf": "^5.0.1",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  }
+}
