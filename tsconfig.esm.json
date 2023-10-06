@@ -6,9 +6,7 @@
         "ES2020"
       ],
       "sourceMap": true,
-      "declaration": true,
-      "declarationMap": true,
-      "moduleResolution": "node",
+      "moduleResolution": "node16",
       "outDir": "lib/esm",
       "rootDir": "package",
       "strict": true,
@@ -22,6 +20,7 @@
     "exclude": [
       "node_modules",
       "**/*.spec.ts",
+      "**/*.test.ts",
       "lib"
     ]
 }
