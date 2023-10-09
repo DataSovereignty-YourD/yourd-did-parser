@@ -15,7 +15,7 @@ The `@yourd/did-parser` is a sophisticated library meticulously crafted for pars
 - [Supported DID Syntax](#supported-did-syntax)
 - [Conformance to W3C Specification](#-conformance-to-w3c-specification)
 - [Usage](#usage)
-- [Disclaimer](#disclaimer)
+- [Disclaimer](#-disclaimer)
 - [Contribution](#-contribution)
 - [License](#-license)
 
