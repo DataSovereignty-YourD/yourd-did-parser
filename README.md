@@ -1,5 +1,6 @@
 # @yourd/did-parser: A Decentralized Identifier (DID) Parser
 
+[YourD](https://www.yourd.xyz/) provides a user-friendly Web3.0 infrastructure enabling you to easily build Web3.0 products. 
 The `@yourd/did-parser` is a sophisticated library meticulously crafted for parsing and managing Decentralized Identifiers (DIDs). Its core foundation is built upon the esteemed DID specification standards set by the **W3C**.
 
 📌 **Key Features**:
@@ -23,7 +24,7 @@ The `@yourd/did-parser` is a sophisticated library meticulously crafted for pars
 
 Decentralized Identifiers (DIDs) are a new type of identifier for verifiable, self-sovereign digital identities. DIDs are fully under the control of the DID subject, independent from any centralized registry, authority, or intermediary.
 
-The `yourdi-parser` aims to provide a robust solution for applications and systems to correctly interpret and handle these identifiers.
+The `@yourd/did-parser` aims to provide a robust solution for applications and systems to correctly interpret and handle these identifiers.
 
 ## Installation
 
@@ -47,7 +48,7 @@ did:[method-name]:[method-specific-id]
 did is a fixed string.
 - `[method-name]` is a string that specifies the DID method. It is case-insensitive and must be a string from the set of lowercase alphanumeric characters.
 - `[method-specific-id]` is a method-specific identifier.
-The yourdi-parser ensures that DIDs are correctly parsed and validated based on the above syntax.
+The @yourd/did-parser ensures that DIDs are correctly parsed and validated based on the above syntax.
 
 
 **Specifications:**
