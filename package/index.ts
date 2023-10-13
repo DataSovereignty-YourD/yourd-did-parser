@@ -1,3 +1,3 @@
-import { Parser } from './paser';
+import { Parser, ParsedDIDURL, ParsedDID } from './paser';
 
-export { Parser };
+export { Parser, ParsedDIDURL, ParsedDID };
